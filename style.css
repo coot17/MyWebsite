@@ -9,7 +9,7 @@ h1 {
   font-family: verdana;
       font-size: 350%;
   text-align: right;
-    color: darkgrey;
+    color: cadetblue;
     margin-left: 20px;
 }
 
@@ -24,7 +24,7 @@ a {
 p {
 font-size: 112%;
   font-family: courier;
-    color: darkgrey;
+    color: cadetblue;
     text-align: right;
 }
 
@@ -32,13 +32,19 @@ p1 {
   font-family: verdana;
   font-size: 200%;
   text-align: left;
-  color: darkgrey;
+  color: cadetblue;
   margin-left: 20px;
 }
 
 p1 {
     text-decoration: overline;
 }
+
+p2 {
+  font-size: 112%;
+  font-family: courier;
+  color: cadetblue;
+  text-align: left;
 
 
 h1 {
